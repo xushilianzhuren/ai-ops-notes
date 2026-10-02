@@ -81,3 +81,8 @@ zhishendiguo.com {
 3. [AI Agent技能工程实践：SKILL.md颗粒度×生产级案例](blog-agent-skills.md)——25个工艺的执行链路拆解
 
 > 全部内容首发于[智神帝国官网](https://zhishendiguo.com/)·本仓为镜像·34件生产级工作流:[技能商店](https://zhishendiguo.com/skills.html)
+
+
+---
+
+**镜像站**：本仓文章索引同步在 [xushilianzhuren.github.io](https://xushilianzhuren.github.io/) · 官网原文 [zhishendiguo.com](https://zhishendiguo.com)
