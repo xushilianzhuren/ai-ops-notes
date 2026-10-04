@@ -86,3 +86,11 @@ zhishendiguo.com {
 ---
 
 **镜像站**：本仓文章索引同步在 [xushilianzhuren.github.io](https://xushilianzhuren.github.io/) · 官网原文 [zhishendiguo.com](https://zhishendiguo.com)
+
+## 订阅更多
+
+智神帝国官网已上线 RSS 订阅源——版本迭代日志 + 零人公司实战博客，一条 feed 全收：
+
+**https://zhishendiguo.com/feed.xml**
+
+复制到任意 RSS 阅读器即可订阅。官网 [zhishendiguo.com](https://zhishendiguo.com) · [技能商店](https://zhishendiguo.com/apps.html)（34件AI自动化工作流，699元/件永久交付）
