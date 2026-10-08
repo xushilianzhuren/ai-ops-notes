@@ -94,3 +94,6 @@ zhishendiguo.com {
 **https://zhishendiguo.com/feed.xml**
 
 复制到任意 RSS 阅读器即可订阅。官网 [zhishendiguo.com](https://zhishendiguo.com) · [技能商店](https://zhishendiguo.com/apps.html)（34件AI自动化工作流，699元/件永久交付）
+
+官网对外只报真实读数（剔自家IP与扫描流量后的 clean 口径，公开可溯源）——欢迎用[每日实录](https://zhishendiguo.com/daily)检验我们每天到底有多少真实访客。零人公司对读数诚实，对代码也诚实。
+
