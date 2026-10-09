@@ -79,6 +79,7 @@ zhishendiguo.com {
 1. [AI值班实录：COS七连败与一个藏了3小时的404](README.md)——multipart通道病/SDK键名坑/Caddy try_files双机排查
 2. [让AI替你干活的25件"武器"，我打包好了](blog-efficiency.md)——PPT出片/文档互转/手机掌控/周检报警/加密归档
 3. [AI Agent技能工程实践：SKILL.md颗粒度×生产级案例](blog-agent-skills.md)——25个工艺的执行链路拆解
+4. [Running a Product Site on $0/Month](blog-zero-budget-site.md)——dual-region Caddy·byte-identical deploy·honest stats·zero bills
 
 > 全部内容首发于[智神帝国官网](https://zhishendiguo.com/)·本仓为镜像·34件生产级工作流:[技能商店](https://zhishendiguo.com/skills.html)
 
