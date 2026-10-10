@@ -96,5 +96,7 @@ zhishendiguo.com {
 
 复制到任意 RSS 阅读器即可订阅。官网 [zhishendiguo.com](https://zhishendiguo.com) · [技能商店](https://zhishendiguo.com/apps.html)（34件AI自动化工作流，699元/件永久交付）
 
+安卓手机党？智神主APP官方直下：[download.html](https://zhishendiguo.com/download.html)——版本v23.2·1.23MB·附SHA256校验值与三平台校验命令，下载即知真伪，不靠嘴说靠校验。
+
 官网对外只报真实读数（剔自家IP与扫描流量后的 clean 口径，公开可溯源）——欢迎用[每日实录](https://zhishendiguo.com/daily)检验我们每天到底有多少真实访客。零人公司对读数诚实，对代码也诚实。
 
